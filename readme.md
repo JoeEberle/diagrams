@@ -1,12 +1,12 @@
 
-# Diagrams - A repository for digrams
-A repository for digrams
+# Diagrams - A repository for diagrams
+A repository for diagrams
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Diagrams** - an example for your projects
 
-A repository for digrams
+A repository for diagrams
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Diagrams** solution repository, follow these steps:
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](diagrams.png)  <br>![additional_image](flowchart.png.png)  <br>
+    ## Deliverables or Figures![additional_image](diagrams.png)  <br>![additional_image](flowchart.png.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
