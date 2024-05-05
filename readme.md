@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Diagrams - A repository for diagrams
 A repository for diagrams
 
@@ -9,8 +11,6 @@ Welcome to the solution **Diagrams** - an example for your projects
 A repository for diagrams
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
