@@ -39,11 +39,8 @@ To get started with the **Diagrams** solution repository, follow these steps:
  ![additional_image](diagrams.png)  <br>![additional_image](flowchart.png.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
